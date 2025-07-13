@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">seonPlayer</string>
+    <string name="home">Home</string>
+    <string name="playlist">Playlist</string>
+    <string name="search">Search</string>
+    <string name="profile">Profile</string>
+    <string name="subtitle_lang_setting">Subtitle Language Setting</string>
+    <string name="recently_viewed_video">Recently viewed video</string>
+    <string name="add_playlist_from_yturl">Add to playlist link</string>
+    <string name="next_video">The next music is</string>
+</resources>

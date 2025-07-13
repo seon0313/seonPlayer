@@ -1,0 +1,23 @@
+syntax = "proto3";
+
+option java_package = "com.seon06.seonplayer";
+option java_multiple_files = true;
+
+message PlaylistList {
+  repeated PlaylistData items = 1;
+}
+
+message PlaylistData {
+  string title = 1;
+  repeated PlaylistItem items = 2;
+  string videoId = 3;
+  string uploader = 4;
+  string description = 5;
+}
+
+message PlaylistItem {
+  string title = 1;
+  string videoId = 2;
+  string thumbnailURL = 3;
+  string channel = 4;
+}

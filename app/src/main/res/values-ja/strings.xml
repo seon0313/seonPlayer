@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">seonPlayer</string>
+    <string name="home">ホーム</string>
+    <string name="playlist">プレイリスト</string>
+    <string name="search">検索</string>
+    <string name="profile">プロフィール</string>
+    <string name="subtitle_lang_setting">字幕言語の設定</string>
+    <string name="recently_viewed_video">最近見たビデオ</string>
+    <string name="add_playlist_from_yturl">プレイリストリンクとして追加する</string>
+    <string name="next_video">次の音楽は</string>
+</resources>
